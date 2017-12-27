@@ -1,0 +1,188 @@
+Java仮想キーコード            説明
+----------------------------  --------------------------------------------------
+VK_0                          VK_0 ～ VK_9 は、キーボードの「0」～「9」。 
+VK_1                            
+VK_2                            
+VK_3                            
+VK_4                            
+VK_5                            
+VK_6                            
+VK_7                            
+VK_8                            
+VK_9                            
+VK_A                          VK_A ～ VK_Z は、キーボードの「A」～「Z」。 
+VK_ACCEPT                     「同意」または「確定」ファンクションキー用の定数。 
+VK_ADD                          
+VK_AGAIN                        
+VK_ALL_CANDIDATES             「全候補」ファンクションキー用の定数です。 
+VK_ALPHANUMERIC               「英数」ファンクションキー用の定数です。 
+VK_ALT                          
+VK_ALT_GRAPH                  「AltGraph」ファンクションキー用の定数です。 
+VK_AMPERSAND                    
+VK_ASTERISK                     
+VK_AT                         「@」キー用の定数です。 
+VK_B                            
+VK_BACK_QUOTE                   
+VK_BACK_SLASH                   
+VK_BACK_SPACE                   
+VK_BRACELEFT                    
+VK_BRACERIGHT                   
+VK_C                            
+VK_CANCEL                       
+VK_CAPS_LOCK                    
+VK_CIRCUMFLEX                 「^」キー用の定数です。 
+VK_CLEAR                        
+VK_CLOSE_BRACKET                
+VK_CODE_INPUT                 「コード入力」ファンクションキー用の定数です。 
+VK_COLON                      「:」キー用の定数です。 
+VK_COMMA                        
+VK_COMPOSE                    「変換」ファンクションキー用の定数です。 
+VK_CONTROL                      
+VK_CONVERT                    「変換」ファンクションキー用の定数です。 
+VK_COPY                         
+VK_CUT                          
+VK_D                            
+VK_DEAD_ABOVEDOT                
+VK_DEAD_ABOVERING               
+VK_DEAD_ACUTE                   
+VK_DEAD_BREVE                   
+VK_DEAD_CARON                   
+VK_DEAD_CEDILLA                 
+VK_DEAD_CIRCUMFLEX              
+VK_DEAD_DIAERESIS               
+VK_DEAD_DOUBLEACUTE             
+VK_DEAD_GRAVE                   
+VK_DEAD_IOTA                    
+VK_DEAD_MACRON                  
+VK_DEAD_OGONEK                  
+VK_DEAD_SEMIVOICED_SOUND        
+VK_DEAD_TILDE                   
+VK_DEAD_VOICED_SOUND            
+VK_DECIMAL                      
+VK_DELETE                       
+VK_DIVIDE                       
+VK_DOLLAR                     「$」キー用の定数です。 
+VK_DOWN                       Numpad ではない下矢印キー用の定数です。 
+VK_E                            
+VK_END                          
+VK_ENTER                        
+VK_EQUALS                       
+VK_ESCAPE                       
+VK_EURO_SIGN                  ユーロ通貨記号キー用の定数です。 
+VK_EXCLAMATION_MARK           「!」 
+VK_F                            
+VK_F1                         F1 ファンクションキーの用の定数です。 
+VK_F10                        F10 ファンクションキー用の定数です。 
+VK_F11                        F11 ファンクションキー用の定数です。 
+VK_F12                        F12 ファンクションキー用の定数です。 
+VK_F13                        F13 ファンクションキー用の定数です。 
+VK_F14                        F14 ファンクションキー用の定数です。 
+VK_F15                        F15 ファンクションキー用の定数です。 
+VK_F16                        F16 ファンクションキー用の定数です。 
+VK_F17                        F17 ファンクションキー用の定数です。 
+VK_F18                        F18 ファンクションキー用の定数です。 
+VK_F19                        F19 ファンクションキー用の定数です。 
+VK_F2                         F2 ファンクションキー用の定数です。 
+VK_F20                        F20 ファンクションキー用の定数です。 
+VK_F21                        F21 ファンクションキー用の定数です。 
+VK_F22                        F22 ファンクションキー用の定数です。 
+VK_F23                        F23 ファンクションキー用の定数です。 
+VK_F24                        F24 ファンクションキー用の定数です。 
+VK_F3                         F3 ファンクションキー用の定数です。 
+VK_F4                         F4 ファンクションキー用の定数です。 
+VK_F5                         F5 ファンクションキー用の定数です。 
+VK_F6                         F6 ファンクションキー用の定数です。 
+VK_F7                         F7 ファンクションキー用の定数です。 
+VK_F8                         F8 ファンクションキー用の定数です。 
+VK_F9                         F9 ファンクションキー用の定数です。 
+VK_FINAL                        
+VK_FIND                         
+VK_FULL_WIDTH                 「全角」ファンクションキー用の定数です。 
+VK_G                            
+VK_GREATER                      
+VK_H                            
+VK_HALF_WIDTH                 「半角」ファンクションキー用の定数です。 
+VK_HELP                         
+VK_HIRAGANA                   「ひらがな」ファンクションキー用の定数です。 
+VK_HOME                         
+VK_I                            
+VK_INPUT_METHOD_ON_OFF        インプットメソッドの入力切替えキー用の定数です。 
+VK_INSERT                       
+VK_INVERTED_EXCLAMATION_MARK  逆向きの感嘆符キー用の定数です。 
+VK_J                            
+VK_JAPANESE_HIRAGANA          「日本語-ひらがな」ファンクションキー用の定数です。
+VK_JAPANESE_KATAKANA          「日本語-カタカナ」ファンクションキー用の定数です。
+VK_JAPANESE_ROMAN             「日本語-ローマ字」ファンクションキー用の定数です。
+VK_K                            
+VK_KANA                         
+VK_KANA_LOCK                  「かなロック」ファンクションキー用の定数です。 
+VK_KANJI                        
+VK_KATAKANA                   「カタカナ」ファンクションキー用の定数です。 
+VK_KP_DOWN                    数値入力キーパッドの下矢印キー用の定数です。 
+VK_KP_LEFT                    数値入力キーパッドの左矢印キー用の定数です。 
+VK_KP_RIGHT                   数値入力キーパッドの右矢印キー用の定数です。 
+VK_KP_UP                      数値入力キーパッドの上矢印キー用の定数です。 
+VK_L                            
+VK_LEFT                       Numpad ではない左矢印キー用の定数です。 
+VK_LEFT_PARENTHESIS           「(」キー用の定数です。 
+VK_LESS                         
+VK_M                            
+VK_META                         
+VK_MINUS                      「-」キー用の定数です。 
+VK_MODECHANGE                   
+VK_MULTIPLY                     
+VK_N                            
+VK_NONCONVERT                 「同意」または「確定」ファンクションキー用の定数。
+VK_NUM_LOCK                     
+VK_NUMBER_SIGN                「#」キー用の定数です。 
+VK_NUMPAD0                      
+VK_NUMPAD1                      
+VK_NUMPAD2                      
+VK_NUMPAD3                      
+VK_NUMPAD4                      
+VK_NUMPAD5                      
+VK_NUMPAD6                      
+VK_NUMPAD7                      
+VK_NUMPAD8                      
+VK_NUMPAD9                      
+VK_O                            
+VK_OPEN_BRACKET                 
+VK_P                            
+VK_PAGE_DOWN                    
+VK_PAGE_UP                      
+VK_PASTE                        
+VK_PAUSE                        
+VK_PERIOD                       
+VK_PLUS                       「+」キー用の定数です。 
+VK_PREVIOUS_CANDIDATE         「前候補」ファンクションキー用の定数です。 
+VK_PRINTSCREEN                  
+VK_PROPS                        
+VK_Q                            
+VK_QUOTE                        
+VK_QUOTEDBL                     
+VK_R                            
+VK_RIGHT                      Numpad ではない右矢印キー用の定数です。 
+VK_RIGHT_PARENTHESIS          「)」キー用の定数です。 
+VK_ROMAN_CHARACTERS           「ローマ字」ファンクションキー用の定数です。 
+VK_S                            
+VK_SCROLL_LOCK                  
+VK_SEMICOLON                    
+VK_SEPARATER                  この定数は現在使用されていません。 
+VK_SEPARATOR                  Numpad Separator キー用の定数です。 
+VK_SHIFT                        
+VK_SLASH                        
+VK_SPACE                        
+VK_STOP                         
+VK_SUBTRACT                     
+VK_T                            
+VK_TAB                          
+VK_U                            
+VK_UNDEFINED                  keyCode が不明であることを示すために使用されます。
+VK_UNDERSCORE                 「_」キー用の定数です。 
+VK_UNDO                         
+VK_UP                         Numpad ではない上矢印キー用の定数です。 
+VK_V                            
+VK_W                            
+VK_X                            
+VK_Y                            
+VK_Z                            
